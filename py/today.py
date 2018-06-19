@@ -201,3 +201,146 @@ Traceback (most recent call last):
     square(bob)
 TypeError: square() missing 1 required positional argument: 'length'
 >>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x037C4430>
+<bound method TNavigator.left of <turtle.Turtle object at 0x037C4430>>
+Traceback (most recent call last):
+  File "C:/Users/linda/Desktop/mypolygon.py", line 15, in <module>
+    square(bob)
+TypeError: square() missing 1 required positional argument: 'length'
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03E64470>
+<bound method TNavigator.left of <turtle.Turtle object at 0x03E64470>>
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x046344D0>
+<bound method TNavigator.left of <turtle.Turtle object at 0x046344D0>>
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03991D50>
+<bound method TNavigator.left of <turtle.Turtle object at 0x03991D50>>
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03C44470>
+<bound method TNavigator.left of <turtle.Turtle object at 0x03C44470>>
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x045744B0>
+<bound method TNavigator.left of <turtle.Turtle object at 0x045744B0>>
+4
+5
+6
+7
+8
+9
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x045344B0>
+<bound method TNavigator.left of <turtle.Turtle object at 0x045344B0>>
+4
+6
+8
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x04134490>
+<bound method TNavigator.left of <turtle.Turtle object at 0x04134490>>
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x037D72D0>
+<bound method TNavigator.left of <turtle.Turtle object at 0x037D72D0>>
+4
+5
+6
+7
+8
+9
+d
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03B844D0>
+<bound method TNavigator.left of <turtle.Turtle object at 0x03B844D0>>
+4
+5
+6
+7
+8
+9
+dan
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03667510>
+<bound method TNavigator.left of <turtle.Turtle object at 0x03667510>>
+4
+5
+6
+7
+8
+9
+t
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03C44450>
+<bound method TNavigator.left of <turtle.Turtle object at 0x03C44450>>
+4
+5
+6
+7
+8
+9
+dan
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03DF4470>
+<bound method TNavigator.left of <turtle.Turtle object at 0x03DF4470>>
+4
+5
+6
+7
+8
+9
+an
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03A94470>
+<bound method TNavigator.left of <turtle.Turtle object at 0x03A94470>>
+4
+5
+6
+7
+8
+9
+at
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03664470>
+<bound method TNavigator.left of <turtle.Turtle object at 0x03664470>>
+4
+5
+6
+7
+8
+9
+
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x036A44B0>
+<bound method TNavigator.left of <turtle.Turtle object at 0x036A44B0>>
+4
+5
+6
+7
+8
+9
+etnad
+>>> 
