@@ -155,4 +155,49 @@ Traceback (most recent call last):
   File "<pyshell#19>", line 1, in <module>
     draw_a()
 NameError: name 'draw_a' is not defined
+>>> import turtle
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+Traceback (most recent call last):
+  File "C:/Users/linda/Desktop/mypolygon.py", line 3, in <module>
+    pring(bob)
+NameError: name 'pring' is not defined
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x036D4490>
+Traceback (most recent call last):
+  File "C:/Users/linda/Desktop/mypolygon.py", line 6, in <module>
+    bob.fd(100)
+  File "C:\Users\linda\AppData\Local\Programs\Python\Python36-32\lib\turtle.py", line 1637, in forward
+    self._go(distance)
+  File "C:\Users\linda\AppData\Local\Programs\Python\Python36-32\lib\turtle.py", line 1605, in _go
+    self._goto(ende)
+  File "C:\Users\linda\AppData\Local\Programs\Python\Python36-32\lib\turtle.py", line 3158, in _goto
+    screen._pointlist(self.currentLineItem),
+  File "C:\Users\linda\AppData\Local\Programs\Python\Python36-32\lib\turtle.py", line 755, in _pointlist
+    cl = self.cv.coords(item)
+  File "<string>", line 1, in coords
+  File "C:\Users\linda\AppData\Local\Programs\Python\Python36-32\lib\tkinter\__init__.py", line 2466, in coords
+    self.tk.call((self._w, 'coords') + args))]
+_tkinter.TclError: invalid command name ".!canvas"
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03FD1DD0>
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x03CA44B0>
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x046144D0>
+Traceback (most recent call last):
+  File "C:/Users/linda/Desktop/mypolygon.py", line 15, in <module>
+    square(bob)
+TypeError: square() missing 1 required positional argument: 'length'
+>>> 
+================ RESTART: C:/Users/linda/Desktop/mypolygon.py ================
+<turtle.Turtle object at 0x04244490>
+Traceback (most recent call last):
+  File "C:/Users/linda/Desktop/mypolygon.py", line 16, in <module>
+    square(bob)
+TypeError: square() missing 1 required positional argument: 'length'
 >>> 
