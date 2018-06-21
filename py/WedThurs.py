@@ -145,3 +145,64 @@ False
 >>> factorial(0)
 1
 >>> 
+================ RESTART: C:\Users\linda\Desktop\wednesday.py ================
+>>> fibonacci(3)
+2
+>>> fibonacci(50)
+
+================ RESTART: C:\Users\linda\Desktop\wednesday.py ================
+>>> fibonacci(5)
+5
+>>> fibonacci(20)
+6765
+>>> fibonacci(50)
+
+================ RESTART: C:\Users\linda\Desktop\wednesday.py ================
+>>> factorial(1.5)
+Traceback (most recent call last):
+  File "<pyshell#65>", line 1, in <module>
+    factorial(1.5)
+  File "C:\Users\linda\Desktop\wednesday.py", line 48, in factorial
+    recurse = factorial(n-1)
+  File "C:\Users\linda\Desktop\wednesday.py", line 48, in factorial
+    recurse = factorial(n-1)
+  File "C:\Users\linda\Desktop\wednesday.py", line 48, in factorial
+    recurse = factorial(n-1)
+  [Previous line repeated 989 more times]
+  File "C:\Users\linda\Desktop\wednesday.py", line 45, in factorial
+    if n == 0:
+RecursionError: maximum recursion depth exceeded in comparison
+>>> 
+================ RESTART: C:\Users\linda\Desktop\wednesday.py ================
+>>> print(factorial('fred'))
+Factorial is not defined for integers.
+None
+>>> print(factorial(-2))
+Traceback (most recent call last):
+  File "<pyshell#67>", line 1, in <module>
+    print(factorial(-2))
+  File "C:\Users\linda\Desktop\wednesday.py", line 70, in factorial
+    return n * factorial(n-1)
+  File "C:\Users\linda\Desktop\wednesday.py", line 70, in factorial
+    return n * factorial(n-1)
+  File "C:\Users\linda\Desktop\wednesday.py", line 70, in factorial
+    return n * factorial(n-1)
+  [Previous line repeated 989 more times]
+  File "C:\Users\linda\Desktop\wednesday.py", line 67, in factorial
+    elif n == 0:
+RecursionError: maximum recursion depth exceeded in comparison
+>>> 
+================ RESTART: C:\Users\linda\Desktop\wednesday.py ================
+>>> factorial(4)
+                 factorial 4
+             factorial 3
+         factorial 2
+     factorial 1
+ factorial 0
+ returning 1
+     returning 1
+         returning 2
+             returning 6
+                 returning 24
+24
+>>> 
